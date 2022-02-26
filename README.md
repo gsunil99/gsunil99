@@ -1,5 +1,5 @@
 <h1 align="center">Hellooo, 👋  I'm G Sunil</h1>
-<h3 align="center">✨ Learning new things everyday, Loves to solve problems ✨</h3>
+<h3 align="center">✨ See every day as an opportunity to improve yourself ✨</h3>
 
 - 🔭 I’m currently working as a **Senior Software Engineer at LTI**  
 
