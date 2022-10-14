@@ -1,7 +1,7 @@
 <h1 align="center">Hellooo, 👋  I'm G Sunil</h1>
 <h3 align="center">✨ See every day as an opportunity to improve yourself ✨</h3>
 
-- 🔭 I’m currently working as a **Senior Software Engineer at LTI**  
+- 🔭 I’m currently working as a **Software Developer at Climate Connect Digital**  
 
 - 👨‍💻 All of my projects are available at [https://github.com/gsunil99](https://github.com/gsunil99)
 
