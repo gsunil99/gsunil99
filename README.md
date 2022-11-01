@@ -31,6 +31,4 @@
 <p align="left"><a href="https://twitter.com/gsunil1999" target="blank"><img src="https://img.shields.io/twitter/follow/gsunil1999?logo=twitter&style=for-the-badge" alt="gsunil1999" /></a> </p>
 
 <hr/>
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gsunil99&show_icons=true" alt="gsunil99" /> -->
-<!-- <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsunil99" alt="gsunil99" /> </p> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gsunil99&show_icons=true&locale=en" alt="gsunil99" />
