@@ -12,7 +12,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sunil-g-sjec/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gsunil99910" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gsunil99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gsunil99910" height="30" width="40" /></a>
 <a href="https://twitter.com/gsunil1999" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gsunil99910" height="30" width="40" /></a>
 <a href="https://leetcode.com/gsunil99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gsunil99910" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gsunil99910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gsunil99910" height="30" width="40" /></a>
