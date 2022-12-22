@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gsunil99](https://github.com/gsunil99)
 
+- 👨‍ My portfolio is live at [https://gsunil.netlify.app/](https://gsunil.netlify.app/)
+
 - 📫 How to reach me **gsunil99910@gmail.com**
  <img src="https://komarev.com/ghpvc/?username=gsunil99910&label=Profile%20views&color=0e75b6&style=flat" alt="gsunil99910" /> 
  
-- You can see my portfolio 
-<a href="https://gsunil.netlify.app/" target="blank>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sunil-g-sjec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gsunil99910" height="30" width="40" /></a>
